@@ -7,7 +7,7 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Jan 15 - OOP, Modules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1610722369971/capture/)
 
 ### NBB
-- [Jan 15 - OOP, MOdules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1610730956171/capture/)
+- [Jan 15 - OOP, Modules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1610730956171/capture/)
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon    | Tue            | Wed        | Thu     | Fri      |
