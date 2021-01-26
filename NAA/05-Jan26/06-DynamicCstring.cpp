@@ -6,26 +6,28 @@ struct Person {
    char* name;
    int age;
 };
+
 char* dynamicGetName() {
    char* name = nullptr;  // to flag a pointer not being used;
    char tempName[256];
+   cout << "Name: ";
    cin.getline(tempName, 256);
    name = new char[strLen(tempName) + 1];
    strCpy(name, tempName);
    return name;
 }
+
 void displayPerson(const Person& pref) {
    cout << pref.name << ", " << pref.age << " years old!" << endl;
 }
+
 int main() {
-   Person* ptr = nullptr;
-   ptr = new Person;
+   Person P;
    cout << "Enter you name: ";
-   ptr->name = dynamicGetName();
+   P.name = dynamicGetName();
    cout << "Enter you age: ";
-   cin >> ptr->age;
-   displayPerson(*ptr);
-   delete[] ptr->name;
-   delete ptr;
+   cin >> P.age;
+   displayPerson(P);
+   delete[] P.name;
    return 0;
 }
