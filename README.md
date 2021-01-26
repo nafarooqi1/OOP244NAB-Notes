@@ -1,14 +1,29 @@
 ﻿# OOP244-NAB-Notes
 ## Active Session
-You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out. Click on the link below to join: <br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=XgmxcB-nt38UPcCOIyLCi9ceF-gy84mruOx34hxcp94&m=c7456d831d8b31f17de0b9e7208ff6f8c4e96c80&t=1611336604023&u=senecacollege)
+You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out. Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
+[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=RA5M9tH4FxdDVkahX5vxVL3owLNv5P7AnGJcLx0rnpo&m=62beeeaf4f2033fc956c90cb73038b9c82496310&t=1611672146474&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Jan 15 - OOP, Modules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1610722369971/capture/)
+- [Jan 19 - OOP, Objects Modular & Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611067513384/capture/)
+- [Jan 22 - Types, References and Overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611327030250/capture/)
 
 ### NBB
 - [Jan 15 - OOP, Modules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1610730956171/capture/)
+- [Jan 19 - OOP, Objects Modular & Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1611073970531/capture/)
+- [Jan 22 - Types, References and Overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1611336604060/capture/)
 
+## IPC144 Review Session for OOP244 Students
+The next reveiw session on IPC144 will be on Sunday Jan 31st at 8:00 AM. <br />
+This session is open to all the students who need help with IPC144 concepts.<br />
+On Sunday at 8:00 AM click on the link bellow to join the session. (You must use your real full name otherwise you will be kicke out)<br />
+### Join
+[Join the IPC144 Review session for OOP244 Students](https://connect.rna2.blindsidenetworks.com/invite/to?c=-ztYQlxzjFXaVK099G6QgyZZNDmGhrUSxzgEFEwF3Kw&m=ca2ea2034a9a221b74359f5b59c8f490e237e04e&t=1611493114613&u=senecacollege)
+### Review Recordings
+- Session 1 [BigBlueButton](https://recordings.rna2.blindsidenetworks.com/senecacollege/0b553525140a0a7885b1f0a71edfa98d2652d1ff-1611493114663/capture/) - [YouTube](https://youtu.be/_Ktv6ti5iuA)
+### Review Session Codes
+- [Session 1](https://github.com/Seneca-244200/OOP244NAB-Notes/tree/main/IPC144Review)
+# Computer preparation and Getting Workshop files
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon    | Tue            | Wed        | Thu     | Fri      |
 |--------|-------------|--------|----------------|------------|---------|----------|
