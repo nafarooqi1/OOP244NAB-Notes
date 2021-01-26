@@ -1,7 +1,7 @@
 ﻿# OOP244-NAB-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out. Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=RA5M9tH4FxdDVkahX5vxVL3owLNv5P7AnGJcLx0rnpo&m=62beeeaf4f2033fc956c90cb73038b9c82496310&t=1611672146474&u=senecacollege)
+[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=vMDsz7il7DFeovIK3mcvGxOAtxCuJwThYdzCrwgqdEU&m=c7456d831d8b31f17de0b9e7208ff6f8c4e96c80&t=1611679139110&u=senecacolleg)
 ## Previous Sessions
 ### NAA
 - [Jan 15 - OOP, Modules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1610722369971/capture/)
