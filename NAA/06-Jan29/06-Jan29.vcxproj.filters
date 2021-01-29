@@ -15,12 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="prg.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="cstring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -28,5 +26,13 @@
     <Object Include="cstring.obj">
       <Filter>Source Files</Filter>
     </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Account.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
