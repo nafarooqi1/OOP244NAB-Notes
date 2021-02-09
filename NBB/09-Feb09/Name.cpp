@@ -7,9 +7,9 @@ namespace sdds {
 
 
 
-  /* Name::Name() {
+   Name::Name() {
       init();
-   }*/
+   }
 
    Name::Name(const char* theName) {
       init();

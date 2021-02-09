@@ -9,7 +9,7 @@ namespace sdds {
       void deallocate();
    public:
 
-     // Name();
+      Name();
       Name(const char* theName);
       Name(const char* theName, int maxLen);
       ~Name();
