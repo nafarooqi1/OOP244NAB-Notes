@@ -1,7 +1,7 @@
 ﻿# OOP244-NAB-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out. Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=Z1C916MmSTettq9E4DcA0CkQDtpSrRhmNK10s6ecwrk&m=c7456d831d8b31f17de0b9e7208ff6f8c4e96c80&t=1612545868902&u=senecacollege)
+[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=e-OHGWaVzTi01Sm5Zsp6omxGmgdz9JKnngzT5UiqK3w&m=62beeeaf4f2033fc956c90cb73038b9c82496310&t=1612882019458&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Jan 15 - OOP, Modules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1610722369971/capture/)
@@ -9,6 +9,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Jan 22 - Types, References and Overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611327030250/capture/)
 - [Jan 26 - DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611672146541/capture/)
 - [Jan 29 - Privacy, member functions - cin/cout](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611931656319/capture/)
+- [Feb 2 - Methods, Privacy, IO - Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1612277240130/capture/)
+- [Feb 5 - Constructors and Destructors](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1612536561922/capture/)
 
 ### NBB
 - [Jan 15 - OOP, Modules, Objects](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1610730956171/capture/)
@@ -16,6 +18,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Jan 22 - Types, References and Overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1611336604060/capture/)
 - [Jan 26 - DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1611679139155/capture/)
 - [Jan 29 - Privacy, member functions - cin/cout](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611931656319/capture/)
+- [Feb 2 - Methods, Privacy, IO - Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1612277240130/capture/)
+- [Feb 5 - Constructors and Destructors](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1612545868947/capture/)
 
 ## IPC144 Review Session for OOP244 Students
 The next reveiw session on IPC144 will be on Sunday Jan 31st at 8:00 AM. <br />
