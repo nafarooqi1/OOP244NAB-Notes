@@ -1,11 +1,11 @@
-#include "cstring.h""
+#include "cstring.h"
 #include "Name.h"
 // a comment goes here
 using namespace std;
 namespace sdds {
  
    Name::Name(const char* thename, int maxLen) {
-      int len = strlen(thename) > (size_t)maxLen ? maxLen : strlen(thename);
+      int len = (size_t)strLen(thename) > (size_t)maxLen ? maxLen : strLen(thename);
       m_value = new char[len + 1];
       strnCpy(m_value, thename, len);
       m_value[len] = 0;
@@ -51,7 +51,7 @@ namespace sdds {
       return *this;
    }
    Name& Name::setName(const char* value) {
-      m_value = new char[strlen(value) + 1];
+      m_value = new char[strLen(value) + 1];
       strCpy(m_value, value);
       return *this;
    }
