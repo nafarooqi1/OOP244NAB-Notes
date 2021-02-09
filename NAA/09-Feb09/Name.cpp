@@ -51,6 +51,7 @@ namespace sdds {
       return *this;
    }
    Name& Name::setName(const char* value) {
+      setEmpty();
       m_value = new char[strLen(value) + 1];
       strCpy(m_value, value);
       return *this;
