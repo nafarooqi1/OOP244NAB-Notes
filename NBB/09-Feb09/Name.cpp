@@ -6,7 +6,6 @@ using namespace std;
 namespace sdds {
 
 
-
    Name::Name() {
       init();
    }
