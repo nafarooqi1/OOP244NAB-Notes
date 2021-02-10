@@ -15,6 +15,31 @@ you have multiple return statements in your functions. A function must have only
 		return false;
 	}
 ```
+## CM
+### Feedback
+Unnecessary commented code in the source code. Make sure all the unwanted commented code is removed from the source code before submission. 
+### Problematic code sample
+```C++
+
+        while (i < length && s1[i] != '\0' && s2[i] != '\0')
+        {
+
+            if (s1[i] > s2[i])
+            {
+                //cout << flag;
+                flag = 1;
+            }
+            else if (s1[i] < s2[i])
+            {
+                flag = -1;
+                //  cout << flag;
+            }
+            i++;
+        }
+  
+```
+
+
 ## Code
 ### Feedback
 ### Problematic code sample
