@@ -21,7 +21,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Jan 29 - Privacy, member functions - cin/cout](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611931656319/capture/)
 - [Feb 2 - Methods, Privacy, IO - Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1612277240130/capture/)
 - [Feb 5 - Constructors and Destructors](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1612545868947/capture/)
-
+- [Feb 09 - The Current Object Construction and Destruction - Q& A](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1612888340297/capture/)
+- [Feb 12 - Member Operators Helper Functions](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1613151221461/capture/)
 ## IPC144 Review Session for OOP244 Students
 The next reveiw session on IPC144 will be on Sunday Jan 31st at 8:00 AM. <br />
 This session is open to all the students who need help with IPC144 concepts.<br />
